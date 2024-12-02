@@ -14,7 +14,7 @@
 			"sizes": "512x512"
 		}
 	],
-	"start_url": "./?mode=pwa",
+	"start_url": "/index.html",
 	"theme_color": "#002d87",
 	"background_color": "#002d87",
 	"orientation": "portrait",
